@@ -41,7 +41,7 @@ Designed a normalized database system for managing users, products, orders, paym
 
 ## Project Report
 
-📄 Complete documentation is available in `DBMP Report pdf 4.pdf`
+[View Complete Project Report](./DBMP%20Report%20pdf%204.pdf)
 
 ## Author
 
