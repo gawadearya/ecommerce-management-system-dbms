@@ -10,7 +10,7 @@ Designed a normalized database system for managing users, products, orders, paym
 
 ## Key Concepts
 - ER Diagram
-- Normalization (3NF)
+- Normalization 
 - Primary & Foreign Keys
 - Relational Database Design
 
