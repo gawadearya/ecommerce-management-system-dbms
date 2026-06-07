@@ -29,7 +29,7 @@ Designed a normalized database system for managing users, products, orders, paym
 - Delivery Tracking
 
 ## ER Diagram
-![ER Diagram](ER diagram.jpeg)
+![ER Diagram](ER%20diagram.jpeg)
 
 ## Learning Outcomes
 
