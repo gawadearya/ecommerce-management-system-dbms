@@ -1,22 +1,49 @@
-# E-Commerce Management System
+# E-Commerce Management System 🛒
 
 ## Overview
-Designed a normalized database system for managing users, products, orders, payments, and delivery tracking in an e-commerce platform.
+
+Designed a normalized database system for managing users, products, orders, payments, and delivery tracking in an e-commerce platform using PostgreSQL.
 
 ## Technologies Used
+
 - PostgreSQL
 - SQL
 - DBMS
 
 ## Key Concepts
+
 - ER Diagram
-- Normalization 
+- Schema Design
+- Database Normalization (3NF)
 - Primary & Foreign Keys
+- Data Integrity
 - Relational Database Design
 
 ## Features
+
 - User Management
 - Product Management
+- Cart Management
 - Order Processing
 - Payment Tracking
 - Delivery Tracking
+
+## ER Diagram
+
+![ER Diagram](ER_Diagram.jpeg)
+
+## Learning Outcomes
+
+- Database Design
+- SQL Query Writing
+- Normalization
+- ER Modeling
+- PostgreSQL
+
+## Project Report
+
+📄 Complete documentation is available in `Ecommerce_DBMS_Report.pdf`
+
+## Author
+
+Arya Pandurang Gawade
