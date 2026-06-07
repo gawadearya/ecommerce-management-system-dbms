@@ -30,8 +30,6 @@ Designed a normalized database system for managing users, products, orders, paym
 
 ## ER Diagram
 
-![ER Diagram](ER_Diagram.jpeg)
-
 ## Learning Outcomes
 
 - Database Design
